@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/5ab57b00-fc76-4b06-b736-b1a6443f179d" alt="Bootstrap" width="45"/>
 <img src="https://github.com/user-attachments/assets/90ecb895-c9d2-403f-a350-c959f646d1c7" alt="Tailwind" width="45"/>
 <img src="https://github.com/user-attachments/assets/c1cea383-0470-4156-960f-7c8069914228" alt="VSCode" width="45"/>
+<img src="https://github.com/user-attachments/assets/10f7c669-b22b-474a-baaa-d1766864a527" alt="Puppeteer" width="45"/>
 <img src="https://github.com/user-attachments/assets/224ffdcb-8b2b-4b4c-9801-861fdf954148" alt="Figma" width="45"/>
 <!--<img src="" alt="" width="45"/>-->
